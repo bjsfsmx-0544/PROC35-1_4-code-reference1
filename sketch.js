@@ -78,7 +78,7 @@ pop();
 
 function vForce()
 {
-  // Matter.Body.applyForce(ball,{x:0,y:0},{x:0,y:-0.05});
+   Matter.Body.applyForce(ball,{x:0,y:0},{x:0,y:-0.05});
 
   // Matter.Body.applyForce(ball,{x:0,y:0},{x:0,y:0});
 
